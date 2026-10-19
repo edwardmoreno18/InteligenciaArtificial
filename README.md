@@ -1,0 +1,2 @@
+# InteligenciaArtificial
+especialización inteligencia artificial-REINFORCEMENT LEARNING
